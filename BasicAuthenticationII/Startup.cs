@@ -25,6 +25,7 @@ namespace BasicAuthenticationII
                 .AddJsonFile("appsettings.json");
             Configuration = builder.Build();
         }
+
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
@@ -58,7 +59,7 @@ namespace BasicAuthenticationII
             });
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                await context.Response.WriteAsync("Something went wrong!");
             });
         }
     }
