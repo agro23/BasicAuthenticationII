@@ -1,0 +1,10 @@
+/Users/Guest/Desktop/Authentication Part II/BasicAuthenticationII/BasicAuthenticationII/bin/Debug/netcoreapp1.1/BasicAuthenticationII.deps.json
+/Users/Guest/Desktop/Authentication Part II/BasicAuthenticationII/BasicAuthenticationII/bin/Debug/netcoreapp1.1/BasicAuthenticationII.runtimeconfig.json
+/Users/Guest/Desktop/Authentication Part II/BasicAuthenticationII/BasicAuthenticationII/bin/Debug/netcoreapp1.1/BasicAuthenticationII.runtimeconfig.dev.json
+/Users/Guest/Desktop/Authentication Part II/BasicAuthenticationII/BasicAuthenticationII/bin/Debug/netcoreapp1.1/BasicAuthenticationII.dll
+/Users/Guest/Desktop/Authentication Part II/BasicAuthenticationII/BasicAuthenticationII/bin/Debug/netcoreapp1.1/BasicAuthenticationII.pdb
+/Users/Guest/Desktop/Authentication Part II/BasicAuthenticationII/BasicAuthenticationII/obj/Debug/netcoreapp1.1/BasicAuthenticationII.csprojResolveAssemblyReference.cache
+/Users/Guest/Desktop/Authentication Part II/BasicAuthenticationII/BasicAuthenticationII/obj/Debug/netcoreapp1.1/BasicAuthenticationII.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Authentication Part II/BasicAuthenticationII/BasicAuthenticationII/obj/Debug/netcoreapp1.1/BasicAuthenticationII.AssemblyInfo.cs
+/Users/Guest/Desktop/Authentication Part II/BasicAuthenticationII/BasicAuthenticationII/obj/Debug/netcoreapp1.1/BasicAuthenticationII.dll
+/Users/Guest/Desktop/Authentication Part II/BasicAuthenticationII/BasicAuthenticationII/obj/Debug/netcoreapp1.1/BasicAuthenticationII.pdb
